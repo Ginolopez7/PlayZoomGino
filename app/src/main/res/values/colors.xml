@@ -5,10 +5,6 @@
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
     <color name="md_theme_light_primaryContainer">#FFDAD4</color>
     <color name="md_theme_light_onPrimaryContainer">#410000</color>
-    <color name="md_theme_light_secondary">#006874</color>
-    <color name="md_theme_light_onSecondary">#FFFFFF</color>
-    <color name="md_theme_light_secondaryContainer">#97F0FF</color>
-    <color name="md_theme_light_onSecondaryContainer">#001F24</color>
     <color name="md_theme_light_tertiary">#745B00</color>
     <color name="md_theme_light_onTertiary">#FFFFFF</color>
     <color name="md_theme_light_tertiaryContainer">#FFE08C</color>
